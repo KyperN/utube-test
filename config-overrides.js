@@ -9,6 +9,7 @@ module.exports = function override(config, env) {
     timers: false,
     vm: false,
     stream: 'stream-browserify',
+    buffer: false,
   };
   return config;
 };

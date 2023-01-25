@@ -10,6 +10,8 @@ Welcome to utube-test, a React-based project that allows users to search for vid
 
 3. Start the development server by running `npm start` or `yarn start`. This will start the development server and open the project in your default browser.
 
+4. Visit [localhost:3000](http://localhost:3000).
+
 ## Technologies Used
 
 - React

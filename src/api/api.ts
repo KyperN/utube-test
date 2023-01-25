@@ -3,6 +3,7 @@ import { IComment, IVideo } from './../types/types';
 import axios from 'axios';
 import env from 'react-dotenv';
 const API_KEY = env.API_KEY;
+console.log(API_KEY);
 const COMMENTS_URL =
   'https://www.googleapis.com/youtube/v3/commentThreads?key=';
 
